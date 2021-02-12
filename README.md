@@ -1,2 +1,2 @@
 # smartrechords_agreements
-SmartRe Chords App Privacy Policy and Terms of Use
+SmartReChords App Privacy Policy and Terms of Use
